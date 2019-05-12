@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DaftTap Challenge</string>
+    <string name="buttonText">Tap Me!</string>
+    <string name="score">Score: %s</string>
+    <string name="time_left">Time left: %s s</string>
+    <string name="dialogTopFiveMessage">Congtulations, you tapped screen %s times!\nMoreover you are in top 5 best records!</string>
+    <string name="dialogMessage">Congtulations, you tapped screen %s times!</string>
+    <string name="dialogTitle">Time\'s up!</string>
+    <string name="dialogPositiveButton">Ok</string>
+    <string name="play">Play</string>
+    <string name="countdown">%s</string>
+    <string name="points">Score: %s</string>
+    <string name="timestamp">Date: %s</string>
+
+</resources>
