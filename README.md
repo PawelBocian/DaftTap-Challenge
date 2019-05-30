@@ -19,5 +19,5 @@ Don't worry about changing screen orientation, we support it!
 
 ## Previev
 
-![](preview/daftTap.gif)
+![](Preview/daftTap.gif)
 
