@@ -17,5 +17,5 @@ Dais has 5 places - if your score is enough, you will be notified.
 Don't worry about changing screen orientation, we support it!
 
 ## Previev
-![](Preview/daftTapf.gif)
+![](preview/daftTap.gif)
 
