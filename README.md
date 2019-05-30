@@ -14,6 +14,7 @@ Project done with using :
 
 Tap as much as possible during 5 sec countdown.
 Dais has 5 places - if your score is enough, you will be notified.
+
 Don't worry about changing screen orientation, we support it!
 
 ## Previev
